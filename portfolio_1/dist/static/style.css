@@ -831,7 +831,7 @@ margin-top:0.5px;
   grid-area: 1 / 4 / 1/ 4;
   margin-right: auto;
 	margin-left: auto;
-	margin-top: auto;
+	margin-top: 20px;
 	margin-bottom: auto;
 }
 
@@ -925,7 +925,7 @@ grid-area: 1 / 2 / 6 / 2;
     margin-right: auto;
     margin-left: 10%;
     margin-top: auto;
-    margin-bottom: auto;
+    margin-bottom: 20px;
 }
 
 .logo {
@@ -935,7 +935,7 @@ grid-area: 1 / 2 / 6 / 2;
 	grid-area: 1 / 1 / 1/ 1;
 	margin-right: auto;
 	margin-left: 10%;
-	margin-top: auto;
+	margin-top: 20px;
 	margin-bottom: auto;
 	font-size: 20px;
 }
@@ -1302,7 +1302,7 @@ display: grid;
 grid-template-columns: 10%%;
 /* grid-template-rows: 100%; */
 position: fixed;
-height: 9%;
+height: 6%;
 width: 8%;
 left: 80%;
 right: 30%;
