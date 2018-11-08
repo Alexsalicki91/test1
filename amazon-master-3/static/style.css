@@ -306,6 +306,7 @@ a.router-link-exact-active {
 	height: 100%;
 	background-size: cover;
 	background-position: 50% 50%;
+	opacity:0.6;
 }
 
 .section__facts {

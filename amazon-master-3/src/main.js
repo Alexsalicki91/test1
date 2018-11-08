@@ -30,13 +30,13 @@ const routes = [
 	{ path: '/about', component: About },
 
 	//route for the about route of the webpage
-	{ path: '/projects/manners', component: Manners },
+	{ path: '/projects/hugoboss', component: Manners },
 
 //route for the tabloo route of the webpage
-{ path: '/projects/tabloo', component:Tabloo },
+{ path: '/projects/kitchen', component:Tabloo },
 
 //route for the paul route of the webpage
-{ path: '/projects/euroservice', component: Euroservice },
+{ path: '/projects/mickey_mouse', component: Euroservice },
 
 //route for the euroservice route of the webpage
 { path: '/projects/paul', component: Paul },

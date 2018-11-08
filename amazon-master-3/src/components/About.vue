@@ -3,16 +3,20 @@
 		<section class="section-2">
 
 		<div class="section__about">
-			<h2 class="section__title_project">Hey, I'm Alex Salicki</h2>
-			<p class="section__description">I'm a French UI/UX Designer in Paris. Currently in the 3th year at IIM and I’m looking for an internship for 6 months.
-<br>I’m available for freelance work. If you want to say hello , to have to beer to talk about your project , contact me !
-				<span class="section__description-inner"></span></p>
+			<h2 class="section__title_project">Hey, I'm Isaac Salehy</h2>
+			<p class="section__description">Je suis actuellement en troisième année dans l’axe Animation 3D à l’Institut de l’internet et du Multimédia à la Défense. <br>Je suis passionné depuis longtemps par le cinéma d’animation, le multimédia ainsi que le jeu vidéo et je suis donc cette formation depuis 2016.
+Ma licence dans l’axe Animation 3D m’apporte de solides compétences de modélisation et d’animation notamment grâce à la maitrise de différents logiciels (3Ds Max, Maya, Zbrush) mais également dans divers moteurs temps réels tels que Unity et Unreal Engine. <br>J’aime la modélisation et le texturing mais je préfère la gestion des projets.
+Après avoir acquis des capacités techniques en 3D, je souhaite donc poursuivre mes études avec un mastère en Gestion de Production 3D. A long terme, je voudrais travailler dans le cinéma d’animation en tant que chargé de production.
+
+				<span class="section__description-inner"><a href="/static/cv_isaac_salehy.pdf" download target=_blank style="padding:10px ; font-size:20px ; color:#fff; margin-top:auto; margin-bottom:auto ; text-decoration: underline;"><br>Download my CV
+					</a></span></p>
+
 		</div>
 
 
 		<div class ="section__contact">
 			<h1 class="section__title_contact">Personal Contact :</h1>
-			<p class="section__description_contact">contact@alexsalicki.com<br>+33632913360
+			<p class="section__description_contact">salehy.isaac@gmail.com<br>+33603208197
 				<span class="section__description-inner"></span></p>
 		</div>
 

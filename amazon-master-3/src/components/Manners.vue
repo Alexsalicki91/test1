@@ -8,51 +8,47 @@
 		</div>
 	</nav>
 		<section class="section-project">
-		<div class="section__bg">UI Application</div>
+		<div class="section__bg">Props</div>
 		<div class="section__project">
-			<h2 class="section__title_project">Theatres Parisiens</h2>
+			<h2 class="section__title_project">Hugo Boss Parfume</h2>
 			<div class="stripes-horizontal_project"></div>
 		</div>
 		<div class="section__info_launch">
-			<p class="section__description_work">UI & UX Design
+			<p class="section__description_work">Props
 				<span class="section__description-inner"></span></p>
 			</div>
 		<div class="section__info_work">
 			<p class="section__description_work">Work
-				<span class="section__description-inner">UI Application</span></p>
+				<span class="section__description-inner">Props</span></p>
 			</div>
 			<div class="section__info_client">
-				<p class="section__description_work">Client
-					<span class="section__description-inner">Theatresparisiensassocies.com</span></p>
+				<p class="section__description_work">School
+					<span class="section__description-inner"></span></p>
 				</div>
-				<div class="section__info_project">ABOUT THE<br>PROJECT
+				<div class="section__info_project">A PROPOS<br>DU PROJET
 					</div>
-					<div class="section__description_project">I designed an Application for a client " Theatresparisiensassocies.com". With this application , we can see events in all theaters in Paris , see all informations that we search and we can buy tickets. So I worked on UI Design on more 30 screens's application.
+					<div class="section__description_project">Projet dont l'objectif était de modéliser et texturer un parfum deja existant. Pour ce faire, j'ai choisi Boss by Hugo Boss et ai utilisé 3D Studio Max ainsi que Vray
 						</div>
 	</section>
-	<section class="section-content-project-1">
-		<div class="section__img-project">
-				<img src="/static/theatre-section-1.gif">
-			</div>
-		</section>
-		<section class="section-content-project-2">
+
+		<section class="section-content-project-1">
 			<div class="section__img-project">
-				<img src="/static/theatre-section-2.gif">
+				<img src="/static/parfum_4.jpg">
 			</div>
 			</section>
 			<section class="section-content-project-2">
 				<div class="section__img-project">
-					<img src="/static/theatre-section-3.gif">
+					<img src="/static/parfum_5.jpg">
 				</div>
 				</section>
 				<section class="section-content-project-2">
 					<div class="section__img-project">
-						<img src="/static/theatre-section-4.gif">
+						<img src="/static/parfum_1.jpg">
 					</div>
 					</section>
 					<section class="section-content-project-2">
 						<div class="section__img-project">
-							<img src="/static/theatre-section-5.gif">
+							<img src="/static/parfum_2.jpg">
 						</div>
 						</section>
 				<section class="section-content-project-5">
@@ -60,7 +56,7 @@
 						<router-link v-bind:to="'/projects/euroservice'" style="font-size:70px ; color:#fff; margin-bottom:auto; margin-top:auto;">Next</router-link>
 					</div>
 					<div class="Info_project">Project
-					<div class="Info_project_name">Adventure & Wildlife</div>
+					<div class="Info_project_name">Mickey</div>
 					</div>
 				</section>
   </div>

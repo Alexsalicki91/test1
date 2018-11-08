@@ -8,64 +8,52 @@
 		</div>
 	</nav>
 		<section class="section-project">
-		<div class="section__bg">UI Concept</div>
+		<div class="section__bg">Character</div>
 		<div class="section__project">
-			<h2 class="section__title_project">Adventure & Wildlife</h2>
+			<h2 class="section__title_project">Mickey Mouse</h2>
 			<div class="stripes-horizontal_project"></div>
 		</div>
 		<div class="section__info_launch">
-			<p class="section__description_work">UI & UX Animation
+			<p class="section__description_work">
 				<span class="section__description-inner"></span></p>
 			</div>
 		<div class="section__info_work">
-			<p class="section__description_work">Work
-				<span class="section__description-inner">UI Concept & UI Animation</span></p>
+			<p class="section__description_work">
+				<span class="section__description-inner"></span></p>
 			</div>
 			<div class="section__info_client">
 				<p class="section__description_work">Client
-					<span class="section__description-inner">For Me</span></p>
+					<span class="section__description-inner">None</span></p>
 				</div>
-				<div class="section__info_project">ABOUT THE<br>PROJECT
+				<div class="section__info_project">A PROPOS<br>DU PROJET
 					</div>
-					<div class="section__description_project">I decided to explore Slider transition , Animation and Homepage Concept around the Adventure and Wildlife.
+					<div class="section__description_project">Projet Personel , le but étant de réaliser une version récente du personnage le plus connu de Walt Disney : Mickey Mouse
 						</div>
+
 	</section>
 	<section class="section-content-project-1">
 		<div class="section__img-project">
-				<img src="/static/adventure-section-1.png">
+			<video width="400" height="502" autoplay loop>
+		<source src="/static/mickey_3.mp4" type="video/mp4"></video>
 			</div>
 		</section>
 		<section class="section-content-project-2">
 			<div class="section__img-project">
-				<img src="/static/adventure-section-2.gif">
+		<img src="/static/mickey_1.jpg">
 			</div>
 			</section>
 				<section class="section-content-project-3">
 					<div class="section__img-project">
-						<img src="/static/adventure-section-3.png">
+						<img src="/static/mickey_5.jpg">
 					</div>
 				</section>
-				<section class="section-content-project-4">
-					<div class="section__img-project">
-						<img src="/static/adventure-section-4.gif">
-					</div>
-					</section>
-					<section class="section-content-project-4">
-						<div class="section__img-project">
-							<img src="/static/adventure-section-5.png">
-						</div>
-						</section>
-						<section class="section-content-project-6">
-							<div class="section__img-project">
-								<img src="/static/adventure-section-6.gif">
-							</div>
-							</section>
+
 				<section class="section-content-project-5">
 					<div class="Next_project">
 						<router-link v-bind:to="'/projects/tabloo'" style="font-size:70px ; color:#fff; margin-bottom:auto; margin-top:auto;">Next</router-link>
 					</div>
 					<div class="Info_project">Project
-					<div class="Info_project_name">Tabloo</div>
+					<div class="Info_project_name">Kitchen</div>
 					</div>
 				</section>
   </div>

@@ -80,18 +80,18 @@
 						<section class="section section--current">
 							<div class="section__img">
 								<div class="section__img-inner">
-									<img src="/static/theatre-3.jpg"/>
+									<img src="/static/hugo_boss.jpg"/>
 								</div>
 							</div>
 							<div class="section__content">
-								<h2 class="section__title">Theatres<br>Parisiens</h2>
+								<h2 class="section__title">HugoBoss<br>Parfume</h2>
 								<p class="section__description"><span class="section__description-inner"></span></p>
 							</div>
 
 							<div class="section__more">
 								<div class="section__more-inner section__more-inner--bg1">
 									<p class="section__more-link">
-										<router-link v-bind:to="'/projects/manners'"style="font-size:17px ; color:#fff;">Discover</router-link>
+										<router-link v-bind:to="'/projects/hugoboss'"style="font-size:17px ; color:#fff;">Discover</router-link>
 										<svg class="icon icon--arrowlong"><use xlink:href="#icon-arrowlong"></use></svg>
 									</p>
 								</div>
@@ -110,18 +110,18 @@
 						</section><!--/ section -->
 						<section class="section">
 							<div class="section__content">
-								<h2 class="section__title">Adventure  & <br>Wildlife</h2>
+								<h2 class="section__title">Mickey <br>Mouse</h2>
 								<p class="section__description"><span class="section__description-inner"></span></p>
 							</div>
 							<div class="section__img">
 								<div class="section__img-inner">
-									<img src="/static/adventure.jpg"/>
+									<img src="/static/mickey_2.jpg"/>
 								</div>
 							</div>
 							<div class="section__more">
 								<div class="section__more-inner section__more-inner--bg2">
 									<a href="#" class="section__more-link">
-										<router-link v-bind:to="'/projects/euroservice'"style="font-size:17px ; color:#fff;">Discover</router-link>
+										<router-link v-bind:to="'/projects/mickey_mouse'"style="font-size:17px ; color:#fff;">Discover</router-link>
 										<svg class="icon icon--arrowlong"><use xlink:href="#icon-arrowlong"></use></svg>
 									</a>
 								</div>
@@ -140,18 +140,18 @@
 						</section><!--/ section -->
 						<section class="section">
 							<div class="section__content">
-								<h2 class="section__title">Tabloo</h2>
+								<h2 class="section__title">Kitchen</h2>
 								<p class="section__description"><span class="section__description-inner"></span></p>
 							</div>
 							<div class="section__img">
 								<div class="section__img-inner">
-									<img src="/static/bg-tabloo.jpg"/>
+									<img src="/static/kitchen.jpg"/>
 								</div>
 							</div>
 							<div class="section__more">
 								<div class="section__more-inner section__more-inner--bg3">
 									<a href="#" class="section__more-link">
-									<router-link v-bind:to="'/projects/tabloo'"style="font-size:17px ; color:#fff;">Discover</router-link>
+									<router-link v-bind:to="'/projects/kitchen'"style="font-size:17px ; color:#fff;">Discover</router-link>
 										<svg class="icon icon--arrowlong"><use xlink:href="#icon-arrowlong"></use></svg>
 									</a>
 								</div>

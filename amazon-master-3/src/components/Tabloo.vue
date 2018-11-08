@@ -8,59 +8,54 @@
 		</div>
 	</nav>
 		<section class="section-project">
-		<div class="section__bg">UI UX DESIGN</div>
+		<div class="section__bg">Environment</div>
 		<div class="section__project">
-			<h2 class="section__title_project">Tabloo</h2>
+			<h2 class="section__title_project">Kitchen</h2>
 			<div class="stripes-horizontal_project"></div>
 		</div>
 		<div class="section__info_launch">
-			<p class="section__description_work">UI & UX Design
+			<p class="section__description_work">
 				<span class="section__description-inner"></span></p>
 			</div>
 		<div class="section__info_work">
 			<p class="section__description_work">Work
-				<span class="section__description-inner">UI UX </span></p>
+				<span class="section__description-inner">Environment </span></p>
 			</div>
 			<div class="section__info_client">
 				<p class="section__description_work">Client
-					<span class="section__description-inner">School</span></p>
+					<span class="section__description-inner">Real Estate Agency</span></p>
 				</div>
-				<div class="section__info_project">ABOUT THE<br>PROJECT
+				<div class="section__info_project">A PROPOS<br>DU PROJET
 					</div>
-					<div class="section__description_project">At School , we have to created an Application for weddings and professional events .This is UI for concept app that places guests around table according to their interests and affinities at weddings or events companies.
+					<div class="section__description_project">Projet professionnel : le but étant de modéliser et de texturer une cuisine en 3D en utilisant 3D Studio Max et VRAY pour obtenir un rendu réaliste.
 						</div>
 	</section>
 	<section class="section-content-project-1">
 		<div class="section__img-project">
-				<img src="/static/tabloo-section-1.png">
+				<img src="/static/cuisine_1.jpg">
 			</div>
 		</section>
 		<section class="section-content-project-2">
 			<div class="section__img-project">
-				<img src="/static/tabloo-section-2.png">
+				<img src="/static/cuisine_3.jpg">
 			</div>
 			</section>
 				<section class="section-content-project-3">
 					<div class="section__img-project">
-						<img src="/static/tabloo-section-3.png">
+						<img src="/static/cuisine_wireframe.jpg">
 					</div>
 				</section>
 				<section class="section-content-project-4">
 					<div class="section__img-project">
-						<img src="/static/tabloo-section-4.png">
+						<img src="/static/cuisine_4.jpg">
 					</div>
 					</section>
-					<section class="section-content-project-4">
-						<div class="section__img-project">
-							<img src="/static/tabloo-section-5.png">
-						</div>
-						</section>
 				<section class="section-content-project-5">
 					<div class="Next_project">
 						<router-link v-bind:to="'/projects/manners'" style="font-size:70px ; color:#fff; margin-bottom:auto; margin-top:auto;">Next</router-link>
 					</div>
 					<div class="Info_project">Project
-					<div class="Info_project_name">Manners</div>
+					<div class="Info_project_name">Hugo Boss Parfume</div>
 					</div>
 				</section>
   </div>

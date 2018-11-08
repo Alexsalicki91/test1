@@ -18,15 +18,15 @@
 			<router-link v-bind:to="'/about'"style="padding:10px ; font-size:15px">About</router-link>
 			</nav>
 			<nav class="network">
-				<a href="https://dribbble.com/AlexSalicki" target=_blank style="padding:10px ; font-size:15px ; color:#fff; margin-top:auto; margin-bottom:auto">Dribbble
+				<a href="https://www.artstation.com/isaacsalehy" target=_blank style="padding:10px ; font-size:15px ; color:#fff; margin-top:auto; margin-bottom:auto">Art Station
 				</a>
 			<!-- the router outlet, where all matched components would ber viewed -->
-			<a href="https://www.malt.fr/profile/alexsalicki" target=_blank style="padding:10px ; font-size:15px ; color:#fff; margin-top:auto; margin-bottom:auto">Malt
+			<a href="https://www.linkedin.com/in/isaac-salehy-ab7a04128/" target=_blank style="padding:10px ; font-size:15px ; color:#fff; margin-top:auto; margin-bottom:auto">Linkedin
 			</a>
 			</nav>
 			<nav class="logo">
 			<!-- the router outlet, where all matched components would ber viewed -->
-			<router-link v-bind:to="'/'" style="padding:10px ; font-size:17px ; color:#fff; margin-top:auto; margin-bottom:auto">Alex S.</router-link>
+			<router-link v-bind:to="'/'" style="padding:10px ; font-size:17px ; color:#fff; margin-top:auto; margin-bottom:auto">Isaac S.</router-link>
 			</nav>
 	</div>
 
